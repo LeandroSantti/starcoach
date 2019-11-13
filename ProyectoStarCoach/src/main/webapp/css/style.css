@@ -1,0 +1,164 @@
+body{
+    background-color: black;
+    color: orangered;
+}
+.nav-item{
+    color:orangered;
+}
+.nav a:hover{
+    color: orangered;
+    font-weight: 500;
+}
+
+#navbarDropdownMenuLink{
+    color:orangered;
+}
+.carousel-caption{
+    color: darkslategray;
+    font-weight: bold;
+}
+.olvide-contraseña a{
+    color: orangered;
+    text-decoration: none;
+
+}
+.olvide-contraseña a:hover{
+    color: orangered;
+    font-weight: 500;
+}
+.auspiciantes{
+    font-style: italic;
+    
+}
+.pie-de-foto{
+    font-style: italic;
+    font-weight: normal;
+    
+}
+.margen-noticias a{
+    color: orangered;
+    text-decoration: none;
+}
+.border-left{
+    border-left-color: orangered;
+}
+
+.table.table-bordered > thead > tr > th{
+    border-color: orangered;
+    color: orangered;
+}
+.table.table-bordered > tbody > tr > td{
+    border-color: orangered;
+    color: orangered;
+}
+
+.col-posicion{
+    width: 10%;
+    text-align: center;
+}
+.col-usuario{
+    width: 75%;
+    text-align: center;
+}
+.col-puntos{
+    width: 15%;
+    text-align: center;
+}
+.registrarse a{
+    color: orangered;
+    text-decoration: none;
+}
+.registrarse a:hover{
+    color: orangered;
+    font-weight: 500;
+}
+.cancha{
+    position: relative;
+}
+#jugador1{
+    position: absolute;
+    bottom: 85%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador2{
+    position: absolute;
+    bottom: 78%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador3{
+    position: absolute;
+    bottom: 71%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador4{
+    position: absolute;
+    bottom: 64%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador5{
+    position: absolute;
+    bottom: 57%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador6{
+    position: absolute;
+    bottom: 50%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador7{
+    position: absolute;
+    bottom: 43%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador8{
+    position: absolute;
+    bottom: 36%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador9{
+    position: absolute;
+    bottom: 29%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+#jugador10{
+    position: absolute;
+    bottom: 22%;
+    left: 10%;
+    color: black;
+    font-weight: bold;
+}
+.modal-body{
+    color: black;
+}
+.meses a{
+    color: orangered;
+    text-decoration: none;
+
+}
+.meses a:hover{
+    color: orangered;
+    font-weight: 500;
+}
+
+.form-jugadores-escondido{
+    visibility: hidden;
+}
+
